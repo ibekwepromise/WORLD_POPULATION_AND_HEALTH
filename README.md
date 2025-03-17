@@ -1,6 +1,5 @@
-## WORLD-POPULATION-AND-HEALTH
+## WORLD POPULATION AND HEALTH ANALYSIS(2014-2023): Exploring Global Mortality Trends, Disease Prevalence, and Healthcare Efficiency.
 
-### WORLD POPULATION AND HEALTH ANALYSIS(2014-2023): Exploring Global Mortality Trends, Disease Prevalence, and Healthcare Efficiency.
 Despite advancements in global healthcare, differences in health outcomes persist across different countries. Factors such as healthcare expenditure, disease prevalence, undernourishment, and population growth influence key health indicators, including life expectancy and mortality rates. However, the extent of their impact remains unclear, particularly in countries with limited healthcare resources.  
 
 This analysis aims to investigate trends in global population and health data from 2014 to 2023, identifying patterns in mortality rates, disease prevalence, and healthcare investments. By understanding these relationships, the study seeks to provide insights that can guide policy decisions and improve overall health outcomes.
